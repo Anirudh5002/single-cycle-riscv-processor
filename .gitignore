@@ -1,0 +1,21 @@
+# Verilator generated files
+obj_dir/
+
+# Generated RISC-V files
+*.elf
+*.o
+*.d
+
+# Generated instruction files
+test.hex
+test_words.hex
+
+# Simulation output
+*.vcd
+*.fst
+*.log
+
+# Temporary editor files
+*.swp
+*.swo
+*~
